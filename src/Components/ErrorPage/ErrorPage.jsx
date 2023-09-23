@@ -11,7 +11,7 @@ const ErrorPage = () => {
                     {
                         error.statusText || error.message
                         
-                    },
+                    }
 
                     <p className="py-7">
                     {
